@@ -1,6 +1,8 @@
-# tutorial_1
+# Vue Calculator
 
-## Project setup
+## Vue app that allows you to compute stuff on a calculator
+
+![Alt text](./img/calculator.png "Calculator")
 ```
 npm install
 ```
